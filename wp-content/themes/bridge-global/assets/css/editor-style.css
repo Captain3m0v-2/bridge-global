@@ -1,0 +1,13 @@
+﻿/* Editor Styles for Bridge Global */
+.wp-block {
+    max-width: 1200px;
+}
+
+.editor-styles-wrapper {
+    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;
+}
+
+.has-bridge-blue-color { color: #0066cc; }
+.has-bridge-blue-background-color { background-color: #0066cc; }
+.has-bridge-teal-color { color: #20c997; }
+.has-bridge-teal-background-color { background-color: #20c997; }
